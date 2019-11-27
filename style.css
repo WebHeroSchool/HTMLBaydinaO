@@ -1,9 +1,12 @@
 .body {
 	background: Gainsboro;
-	font-family: Arial; 
+	font-family: 'Open Sans Condensed', sans-serif; 
 }
 .body__header {
 	text-align: left;
-	font-family: impact;
+	font-family: 'Pacifico', cursive;
 	font-size: 30px;
+}
+.body__header_nav{
+	text-align: center;
 }
