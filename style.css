@@ -1,0 +1,9 @@
+.body {
+	background: Gainsboro;
+	font-family: Arial; 
+}
+.body__header {
+	text-align: left;
+	font-family: impact;
+	font-size: 30px;
+}
